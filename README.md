@@ -6,3 +6,4 @@ This is the main repository for all of the projects.
 3. [Rotating Navigation Animation](https://github.com/raveeshsamkaria/50Days50Projects/tree/master/Rotating-Navigation-Animation)
 4. [Hidden Search Widget](https://github.com/raveeshsamkaria/50Days50Projects/tree/master/Hidden-Search-Widget)
 5. [Blurry Loading](https://github.com/raveeshsamkaria/50Days50Projects/tree/master/Blurry-Loading)
+6. [Scroll Animation](https://github.com/raveeshsamkaria/50Days50Projects/tree/master/Scroll-Animation)
