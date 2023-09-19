@@ -8,3 +8,4 @@ This is the main repository for all of the projects.
 5. [Blurry Loading](https://github.com/raveeshsamkaria/50Days50Projects/tree/master/Blurry-Loading)
 6. [Scroll Animation](https://github.com/raveeshsamkaria/50Days50Projects/tree/master/Scroll-Animation)
 7. [Split Landing Page](https://github.com/raveeshsamkaria/50Days50Projects/tree/master/Split-Landing-Page)
+8. [Form Input Wave](https://github.com/raveeshsamkaria/50Days50Projects/tree/master/Form-Input-Wave)
