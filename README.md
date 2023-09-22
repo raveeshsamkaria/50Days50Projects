@@ -11,3 +11,4 @@ This is the main repository for all of the projects.
 8. [Form Input Wave](https://github.com/raveeshsamkaria/50Days50Projects/tree/master/Form-Input-Wave)
 9. [Sound Board](https://github.com/raveeshsamkaria/50Days50Projects/tree/master/Sound-Board)
 10. [Dad Jokes](https://github.com/raveeshsamkaria/50Days50Projects/tree/master/Dad-Jokes)
+11. [Event Keycodes](https://github.com/raveeshsamkaria/50Days50Projects/tree/master/Event-Keycodes)
