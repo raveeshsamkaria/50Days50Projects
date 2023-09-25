@@ -14,3 +14,4 @@ This is the main repository for all of the projects.
 11. [Event Keycodes](https://github.com/raveeshsamkaria/50Days50Projects/tree/master/Event-Keycodes)
 12. [FAQ Collapse](https://github.com/raveeshsamkaria/50Days50Projects/tree/master/FAQ-Collapse)
 13. [Random Choice Picker](https://github.com/raveeshsamkaria/50Days50Projects/tree/master/Random-Choice-Picker)
+14. [Animated Navigation](https://github.com/raveeshsamkaria/50Days50Projects/tree/master/Animated-Navigation)
