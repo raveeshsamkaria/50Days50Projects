@@ -18,3 +18,4 @@ This is the main repository for all of the projects.
 15. [Incrementing Counter](https://github.com/raveeshsamkaria/50Days50Projects/tree/master/Incrementing-Counter)
 16. [Drink Water](https://github.com/raveeshsamkaria/50Days50Projects/tree/master/Drink-Water)
 17. [Movie App](https://github.com/raveeshsamkaria/50Days50Projects/tree/master/Movie-App)
+18. [Background Slider](https://github.com/raveeshsamkaria/50Days50Projects/tree/master/Background-Slider)
