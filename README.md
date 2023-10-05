@@ -24,3 +24,4 @@ This is the main repository for all of the projects.
 21. [Drag-N-Drop](https://github.com/raveeshsamkaria/50Days50Projects/tree/master/Drag-N-Drop)
 22. [Drawing App](https://github.com/raveeshsamkaria/50Days50Projects/tree/master/Drawing-App)
 23. [Kinetic Loader](https://github.com/raveeshsamkaria/50Days50Projects/tree/master/Kinetic-Loader)
+24. [Content Placeholder](https://github.com/raveeshsamkaria/50Days50Projects/tree/master/Content-Placeholder)
