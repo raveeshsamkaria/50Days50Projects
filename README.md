@@ -25,3 +25,4 @@ This is the main repository for all of the projects.
 22. [Drawing App](https://github.com/raveeshsamkaria/50Days50Projects/tree/master/Drawing-App)
 23. [Kinetic Loader](https://github.com/raveeshsamkaria/50Days50Projects/tree/master/Kinetic-Loader)
 24. [Content Placeholder](https://github.com/raveeshsamkaria/50Days50Projects/tree/master/Content-Placeholder)
+25. [Sticky Navbar](https://github.com/raveeshsamkaria/50Days50Projects/tree/master/Sticky-Navbar)
