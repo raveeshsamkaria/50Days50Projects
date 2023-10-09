@@ -28,3 +28,4 @@ This is the main repository for all of the projects.
 25. [Sticky Navbar](https://github.com/raveeshsamkaria/50Days50Projects/tree/master/Sticky-Navbar)
 26. [Double Vertical Slider](https://github.com/raveeshsamkaria/50Days50Projects/tree/master/Double-Vertical-Slider)
 27. [Toast Notification](https://github.com/raveeshsamkaria/50Days50Projects/tree/master/Toast-Notification)
+28. [GitHub Profiles](https://github.com/raveeshsamkaria/50Days50Projects/tree/master/GitHub-Profiles)
