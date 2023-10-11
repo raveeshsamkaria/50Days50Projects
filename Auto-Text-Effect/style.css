@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Autour+One&display=swap');
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-image: linear-gradient(120deg, #a6c0fe 0%, #f68084 100%);
+  font-family: 'Autour One', sans-serif;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  overflow: hidden;
+  margin: 0;
+}
+
+div {
+  position: absolute;
+  bottom: 50px;
+  background: rgba(0, 0, 0, 0.1);
+  padding: 10px 20px;
+  font-size: 18px;
+  border-radius: 8px;
+}
+
+input {
+  width: 50px;
+  padding: 5px;
+  font-size: 18px;
+  background-color: #f68084;
+  border: none;
+  text-align: center;
+  border-radius: 8px;
+}
+
+input:focus {
+  outline: none;
+}
