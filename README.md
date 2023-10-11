@@ -30,3 +30,4 @@ This is the main repository for all of the projects.
 27. [Toast Notification](https://github.com/raveeshsamkaria/50Days50Projects/tree/master/Toast-Notification)
 28. [GitHub Profiles](https://github.com/raveeshsamkaria/50Days50Projects/tree/master/GitHub-Profiles)
 29. [Double Click Heart](https://github.com/raveeshsamkaria/50Days50Projects/tree/master/Double-Click-Heart)
+30. [Auto Text Effect](https://github.com/raveeshsamkaria/50Days50Projects/tree/master/Auto-Text-Effect)
