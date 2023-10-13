@@ -32,3 +32,4 @@ This is the main repository for all of the projects.
 29. [Double Click Heart](https://github.com/raveeshsamkaria/50Days50Projects/tree/master/Double-Click-Heart)
 30. [Auto Text Effect](https://github.com/raveeshsamkaria/50Days50Projects/tree/master/Auto-Text-Effect)
 31. [Password Generator](https://github.com/raveeshsamkaria/50Days50Projects/tree/master/Password-Generator)
+32. [Good, Cheap & Fast](https://github.com/raveeshsamkaria/50Days50Projects/tree/master/Good-Cheap-Fast)
