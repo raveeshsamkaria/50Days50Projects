@@ -35,3 +35,4 @@ This is the main repository for all of the projects.
 32. [Good, Cheap & Fast](https://github.com/raveeshsamkaria/50Days50Projects/tree/master/Good-Cheap-Fast)
 33. [Notes App](https://github.com/raveeshsamkaria/50Days50Projects/tree/master/Notes-App)
 34. [Animated Countdown](https://github.com/raveeshsamkaria/50Days50Projects/tree/master/Animated-Countdown)
+35. [Image Carousel](https://github.com/raveeshsamkaria/50Days50Projects/tree/master/Image-Carousel)
