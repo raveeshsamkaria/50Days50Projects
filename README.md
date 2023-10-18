@@ -37,3 +37,4 @@ This is the main repository for all of the projects.
 34. [Animated Countdown](https://github.com/raveeshsamkaria/50Days50Projects/tree/master/Animated-Countdown)
 35. [Image Carousel](https://github.com/raveeshsamkaria/50Days50Projects/tree/master/Image-Carousel)
 36. [Hoverboard](https://github.com/raveeshsamkaria/50Days50Projects/tree/master/Hoverboard)
+37. [Pokedex](https://github.com/raveeshsamkaria/50Days50Projects/tree/master/Pokedex)
