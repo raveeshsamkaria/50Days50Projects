@@ -39,3 +39,4 @@ This is the main repository for all of the projects.
 36. [Hoverboard](https://github.com/raveeshsamkaria/50Days50Projects/tree/master/Hoverboard)
 37. [Pokedex](https://github.com/raveeshsamkaria/50Days50Projects/tree/master/Pokedex)
 38. [Mobile Tab Navigation](https://github.com/raveeshsamkaria/50Days50Projects/tree/master/Mobile-Tab-Navigation)
+39. [Password Strength Background](https://github.com/raveeshsamkaria/50Days50Projects/tree/master/Password-Strength-Background)
