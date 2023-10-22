@@ -41,3 +41,4 @@ This is the main repository for all of the projects.
 38. [Mobile Tab Navigation](https://github.com/raveeshsamkaria/50Days50Projects/tree/master/Mobile-Tab-Navigation)
 39. [Password Strength Background](https://github.com/raveeshsamkaria/50Days50Projects/tree/master/Password-Strength-Background)
 40. [3D Background Boxes](https://github.com/raveeshsamkaria/50Days50Projects/tree/master/3D-Background-Boxes)
+41. [Verify Account UI](https://github.com/raveeshsamkaria/50Days50Projects/tree/master/Verify-Account-UI)
