@@ -44,3 +44,4 @@ This is the main repository for all of the projects.
 41. [Verify Account UI](https://github.com/raveeshsamkaria/50Days50Projects/tree/master/Verify-Account-UI)
 42. [Live User Filter](https://github.com/raveeshsamkaria/50Days50Projects/tree/master/Live-User-Filter)
 43. [Feedback UI Design](https://github.com/raveeshsamkaria/50Days50Projects/tree/master/Feedback-UI-Design)
+44. [Custom Range Slider](https://github.com/raveeshsamkaria/50Days50Projects/tree/master/Custom-Range-Slider)
