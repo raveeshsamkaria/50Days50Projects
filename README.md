@@ -46,3 +46,4 @@ This is the main repository for all of the projects.
 43. [Feedback UI Design](https://github.com/raveeshsamkaria/50Days50Projects/tree/master/Feedback-UI-Design)
 44. [Custom Range Slider](https://github.com/raveeshsamkaria/50Days50Projects/tree/master/Custom-Range-Slider)
 45. [Netflix Mobile Navigation](https://github.com/raveeshsamkaria/50Days50Projects/tree/master/Netflix-Mobile-Navigation)
+46. [Quiz App](https://github.com/raveeshsamkaria/50Days50Projects/tree/master/Quiz-App)
