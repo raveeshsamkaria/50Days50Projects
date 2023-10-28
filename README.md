@@ -47,3 +47,4 @@ This is the main repository for all of the projects.
 44. [Custom Range Slider](https://github.com/raveeshsamkaria/50Days50Projects/tree/master/Custom-Range-Slider)
 45. [Netflix Mobile Navigation](https://github.com/raveeshsamkaria/50Days50Projects/tree/master/Netflix-Mobile-Navigation)
 46. [Quiz App](https://github.com/raveeshsamkaria/50Days50Projects/tree/master/Quiz-App)
+47. [Testimonial Box](https://github.com/raveeshsamkaria/50Days50Projects/tree/master/Testimonial-Box)
